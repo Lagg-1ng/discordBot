@@ -1,0 +1,1 @@
+the json file is taken from a lesson on YouTube, the functionality is planned to play cities, tic-tac-toe, memorizing events and reminding about them, a kind of calendar and possibly something else
